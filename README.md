@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Data Science Projects
-- 🌱 I’m currently learning ...Deep Learning, NLP ,Computer Vision
+- 🔭 I’m currently working on Data Science Projects
+- 🌱 I’m currently learning Deep Learning, NLP ,Computer Vision
 -->
