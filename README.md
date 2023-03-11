@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-###
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Deep Learning, NLP ,Computer Vision
+
+| Rank | Skills |
+|-----:|---------------|
+|     1|Python         |
+|     2|SQL            |
+|     3|Numpy, Pandas , Sci-kit learn, Matplotlib|
 
 
 <picture>
